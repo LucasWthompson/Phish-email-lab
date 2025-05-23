@@ -21,6 +21,7 @@ This is a self-contained phishing simulation lab for red team exercises, securit
 | `landing-pages/` | Fake login pages (Microsoft-themed, etc.)        |
 | `pretexts/`      | Markdown files describing each phishing scenario |
 | `gophish-setup/` | Install and usage guides for GoPhish and MailHog |
+| `screenshots/`   | Screenshots showcasing the lab                   |
 
 ## 🚀 Quick Start
 
