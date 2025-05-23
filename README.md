@@ -34,13 +34,13 @@ This is a self-contained phishing simulation lab for red team exercises, securit
 ## 🖼️ Screenshots
 
 ### 📬 Phishing Email in MailHog
-![Phishing Email](screenshots/Screenshot 2025-05-23 at 13-50-28 MailHog.png)
+![Phishing Email](screenshots/mailhog-email.png)
 
 ### 🧑‍💻 Fake Microsoft Login Page
-![Login Page](screenshots/Screenshot 2025-05-23 at 13-54-10 Sign in to your account.png)
+![Login Page](screenshots/fake-login-page.png)
 
 ### 📊 GoPhish Dashboard
-![Dashboard](screenshots/Screenshot 2025-05-23 at 13-55-02 Dashboard - Gophish.png)
+![Dashboard](screenshots/gophish-dashboard.png)
 
 ## 🙌 Attribution
 
