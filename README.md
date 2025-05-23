@@ -30,6 +30,17 @@ This is a self-contained phishing simulation lab for red team exercises, securit
 4. Create a fake user group and campaign.
 5. Monitor clicks and credential captures (all local and safe).
 
+## 🖼️ Screenshots
+
+### 📬 Phishing Email in MailHog
+![Phishing Email](screenshots/Screenshot 2025-05-23 at 13-50-28 MailHog.png)
+
+### 🧑‍💻 Fake Microsoft Login Page
+![Login Page](screenshots/Screenshot 2025-05-23 at 13-54-10 Sign in to your account.png)
+
+### 📊 GoPhish Dashboard
+![Dashboard](screenshots/Screenshot 2025-05-23 at 13-55-02 Dashboard - Gophish.png)
+
 ## 🙌 Attribution
 
 This lab uses the following open-source tools:
